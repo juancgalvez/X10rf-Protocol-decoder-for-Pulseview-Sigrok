@@ -1,5 +1,5 @@
-# X10rf-Protocol-decoder-for-Pulseview-Sigrok-
-X10 Radio Frequency Protocol decoder for Pulseview (Sigrok)
+# X10rf-Protocol-decoder-for-Pulseview \(Sigrok\)
+X10 Radio Frequency Protocol decoder for Pulseview \(Sigrok\)
 
 # Some comments:
 
