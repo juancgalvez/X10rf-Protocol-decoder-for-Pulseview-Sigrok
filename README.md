@@ -1,8 +1,6 @@
 # X10rf-Protocol-decoder-for-Pulseview-Sigrok-
 X10 Radio Frequency Protocol decoder for Pulseview (Sigrok)
 
-X10 Radio Frequency signal decoder.
-
 # Some comments:
 
 In X10 RF protocol there is a preamble comprising a ~9 ms UP time and a ~4.5 ms DOWN time. A Zero is a total time between rising edges of ~1.2 ms and a One is a
