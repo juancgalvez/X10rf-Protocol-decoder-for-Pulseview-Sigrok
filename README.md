@@ -13,3 +13,8 @@ Once the 32 bits are reversed, from left to right, byte 4 is house code, byte 3 
 Inside the code, to evaluate unit and command, byte 1 becomes **byte1** and byte 3 becomes **byte2**.
 
 Only ON, OFF, DIM, BRIGHT, ALL ON and ALL OFF commands are recognized. No extended codes are recognized.
+
+Example:
+
+![Example](https://github.com/juancgalvez/X10rf-Protocol-decoder-for-Pulseview-Sigrok/blob/master/x10rf-protocol-decoded.jpg?raw=true)
+
